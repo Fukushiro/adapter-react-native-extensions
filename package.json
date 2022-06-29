@@ -1,0 +1,22 @@
+{
+  "name": "adapter-react-native-fuku",
+  "displayName": "adapter-react-native-fuku",
+  "publisher": "fukushiro",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "publisher.extensionName",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "msjsdiag.vscode-react-native",
+    "rocketseat.RocketseatReactNative",
+    "aaron-bond.better-comments"
+  ]
+}
